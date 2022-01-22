@@ -9,7 +9,7 @@ I have completed fintech internship at JP Morgan & Chase, Mumbai from May 2021 -
 
 ## **✉️ Find me on:**
 <p align="center">
-  <a href="https://www.linkedin.com/in/raghul-prashath-k-a-396311148/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="c" width="120" height="60"/>
+  <a href="https://www.linkedin.com/in/raghul-prashath-k-a-396311148/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="c" width="120" height="30"/>
 </p>
 
 ## **🛠️ Languages and Tools**
