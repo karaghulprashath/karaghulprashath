@@ -17,7 +17,7 @@ I have completed fintech internship at JP Morgan & Chase, Mumbai from May 2021 -
 
 
 ## **📈 GitHub Stats**
-![Raghulprashath's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashathraghul&theme=outrun&show_icons=true)
+![Raghulprashath's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghul-prashath&theme=outrun&show_icons=true)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashathraghul&theme=outrun&layout=compact)](https://github.com/prashathraghul/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghul-prashath&theme=outrun&layout=compact)](https://github.com/raghul-prashath/github-readme-stats)
