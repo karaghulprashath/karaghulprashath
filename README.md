@@ -1,5 +1,5 @@
 
-## **Hey, I’m Raghul **
+## **Hey, I’m Raghul**
 
 I'm a passionate student who loves to learn new things and do great stuffs which helps someone somewhere. I love to code Python. I enjoy working on full stack technologies and learn upcoming data science tools.
 </br>
