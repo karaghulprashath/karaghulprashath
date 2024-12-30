@@ -11,10 +11,10 @@ I am working as an AI developer in Everstage, Chennai, since Dec 2022.
 
 ### Languages  
 <p align="center">  
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+  <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none; outline: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: unset;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank"> 
