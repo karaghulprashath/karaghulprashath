@@ -3,7 +3,6 @@
 I'm a passionate student who loves to learn new things and do great stuffs which helps someone somewhere. I love to code Python. I enjoy working on full stack technologies and learn upcoming data science tools.
 </br>
 
-I have completed a fintech internship at JP Morgan & Chase, Mumbai, from May 2021 - Nov 2021.  
 I am working as an AI developer in Everstage, Chennai, since Dec 2022.
 </br>
 
